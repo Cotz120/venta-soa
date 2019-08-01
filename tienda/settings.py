@@ -26,7 +26,7 @@ SECRET_KEY = '@+726v)hk*emyppsu#9$mvx@_=h*rp_@nlh(inx!xtmfgso4e#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['165.22.223.11']
 
 
 # Application definition
