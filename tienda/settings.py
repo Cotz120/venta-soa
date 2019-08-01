@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'tienda.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'mysql_cymysql',
+        'ENGINE': 'django.db.backends.mysql',
         'NAME': 'tienda',
         'USER': 'root',
         'PASSWORD': 'Lonelyday1',
